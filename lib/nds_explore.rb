@@ -11,6 +11,7 @@ end
 def print_first_directors_movie_titles
     ss_movies = directors_database[0][:movies]
     index = 0
+    while index < d
 end
 
 pp directors_database
